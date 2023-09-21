@@ -58,7 +58,7 @@ const Demo = () => {
                 <Indent>
                     <Keyword>const</Keyword> [value, setValue] <LightBlue>=</LightBlue> <FunctionColor>useState</FunctionColor><LightBlue>({"{"}</LightBlue> <br/>
                     <Indent>
-                        <Red>startDate</Red><LightBlue>:</LightBlue> <Red>null</Red> <br/>
+                        <Red>startDate</Red><LightBlue>:</LightBlue> <Red>null,</Red> <br/>
                         <Red>endDate</Red><LightBlue>:</LightBlue> <Red>null</Red> <br/>
                     </Indent>
                     <LightBlue>{"}"});</LightBlue> <br/><br/>
